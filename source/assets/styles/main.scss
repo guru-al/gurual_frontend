@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+$icon-font-path: "../../bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
+// bower:scss
+@import "../../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+// endbower
+
+@import "base/variables";
+@import "base/mixins";
+@import "base/media-queries";
+
+@import "layout/common";
+@import "layout/header";
+@import "layout/footer";
+@import "layout/home";
