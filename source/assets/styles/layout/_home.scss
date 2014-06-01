@@ -4,11 +4,18 @@
 }
 
 
+.no_events {
+    a {
+        color: $pink;
+        font-weight: bold;
+    }
+}
+
 .empresas_lista {
 	padding: 0;
 	margin: 0;
     li {
-        
+
         display: inline-block;
         padding: 0 20px 0 0;
         margin-bottom: 20px;
@@ -20,6 +27,17 @@
                 width: 100%;
             }
 
+        }
+    }
+}
+
+
+.links_uteis ul {
+    padding: 0 15px;
+    li {
+        a {
+            color: $pink;
+            font-weight: bold;
         }
     }
 }
