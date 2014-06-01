@@ -1,8 +1,11 @@
+// Common
 .home_page h2 {
-	color: $pink;
-	margin-bottom: 20px;
+    color: $pink;
+    margin-bottom: 20px;
 }
 
+
+// Próximo encontro
 
 .no_events {
     a {
@@ -11,26 +14,11 @@
     }
 }
 
-.empresas_lista {
-	padding: 0;
-	margin: 0;
-    li {
+// GURU AL - Grupo de Usuários Ruby de Alagoas
 
-        display: inline-block;
-        padding: 0 20px 0 0;
-        margin-bottom: 20px;
-        a {
-        	display: block;
-        	background: $pink;
-        	color: $white;
-            img {
-                width: 100%;
-            }
 
-        }
-    }
-}
 
+// Na Internet
 
 .links_uteis ul {
     padding: 0 15px;
@@ -41,3 +29,39 @@
         }
     }
 }
+
+// Empresas que apoiam
+
+.empresas_lista {
+    padding: 0;
+    margin: 0;
+    li {
+
+        display: inline-block;
+        padding: 0 20px 0 0;
+        margin-bottom: 20px;
+        a {
+            display: block;
+            background: $pink;
+            color: $white;
+            img {
+                width: 100%;
+            }
+
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
