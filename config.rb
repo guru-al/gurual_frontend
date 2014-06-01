@@ -53,7 +53,6 @@ set :js_dir, 'assets/scripts'
 
 set :images_dir, 'assets/images'
 
-set :bower_dir, 'assets/bower_components'
 
 # Build-specific configuration
 configure :build do
