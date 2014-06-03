@@ -1,0 +1,60 @@
+.project_items {
+    padding: 0;
+    margin: 0;
+}
+.project_item {
+    @include clearfix;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    @include font-size(18);
+    color: $black;
+    a {
+        color: $pink;
+    }
+    .project-title {
+        @include font-size(25);
+        color: $pink;
+        font-weight: bold;
+        text-transform: uppercase;
+        padding: 0;
+        margin: 0 0 4px 0;
+    }
+    .project_image {
+        float: left;
+        margin-right: 20px;
+    }
+}
+
+.bt_contribution {
+    background: $pink;
+    color: $white !important;
+    padding: 4px 20px;
+    display: inline-block;
+    margin: 5px 0;
+    border-radius: 10px;
+}
+
+.how_i_can_help {
+    color: $pink;
+    @include font-size(22);
+    margin-top: 3px;
+    display: inline-block;
+}
+
+.people_list {
+    list-style: none;
+    @include clearfix;
+    padding: 0;
+    margin: 0;
+}
+.people_item {
+    display: inline-block;
+    img {
+        border-radius: 50%;
+    }
+}
+
+.box-data {
+    display: inline-block;
+}
