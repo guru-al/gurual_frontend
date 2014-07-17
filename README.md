@@ -5,12 +5,12 @@
 
 ## Usaremos
 
-- SASS
-- Compass
-- Twitter Bootstrap
-- Modernizr
-- HTML5 Boilerplate
-- Middleman (gem)
+- [SASS](http://sass-lang.com/)
+- [Compass](http://compass-style.org/)
+- [Twitter Bootstrap](http://getbootstrap.com/2.3.2/)
+- [Modernizr](http://modernizr.com/)
+- [HTML5 Boilerplate](http://html5boilerplate.com/)
+- [Middleman (gem)](http://middlemanapp.com/)
 
 ## PSD (Layout)
 
@@ -22,12 +22,12 @@
 
 Veja o [**Guia de contribuição**](https://github.com/guru-al/gurual_frontend/blob/master/CONTRIBUTING.md).
 
-### 2. Instale as dependiencias do projeto
+### 2. Instale as dependências do projeto
 
 Primeiro instale as aplicações necessárias na sua máquina:
 
-- Middleman
-- Ruby
+- [Middleman](http://middlemanapp.com/)
+- [Ruby](https://www.ruby-lang.org/en/)
 
 ### 3. Faça um Pull Request ;-)
 Espere pela aprovação do [core team](https://github.com/orgs/guru-al/members) após verificação do seu *pull request*. Toda contribuição é bem vinda. :ok_hand:
